@@ -6,7 +6,6 @@ import numpy as np
 import nltk
 from nltk.tokenize import word_tokenize
 from sklearn.feature_extraction.text import TfidfVectorizer 
-from vecstack import stacking
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score,f1_score,confusion_matrix
 from sklearn.feature_selection import SelectKBest,chi2
