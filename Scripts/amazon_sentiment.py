@@ -149,7 +149,7 @@ class stacking():
 	
 if __name__ == '__main__':
 
-	dataset = '../amazon_cells_labelled.txt'
+	dataset = '../dataset/amazon_cells_labelled.txt'
 	
 	stack = stacking(dataset)
 
