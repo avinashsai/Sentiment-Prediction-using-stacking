@@ -18,9 +18,15 @@ Second layer of Classifiers used: Logistic Regression
 I am planning to extend to Neural Networks as well.
 
 # Installation
-**Scikit-learn**
-**Numpy**
+
+**Scikit-Learn**
+
+Install using http://scikit-learn.org/stable/install.html
+
 **NLTK**
+
+Install using https://www.nltk.org/install.html
+
 
 # Running the code
 To run this code,
